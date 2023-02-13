@@ -1,0 +1,19 @@
+body{
+    max-width: 900px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 900;
+    text-align: center;
+    margin: auto;
+}
+p{
+    text-align: left;
+}
+h1{
+    font-style: italic;
+}
+h2{
+    font-size: smaller;
+}
+h3{
+    font-size: medium;
+}
